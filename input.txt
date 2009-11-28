@@ -1,0 +1,5 @@
+print 4 * 2;
+x = let var x = length "dann", y = 3 in x + y ;
+y = if(1 < 0) then "verdadeiro" else "falso";
+print y;
+print x;
